@@ -50,4 +50,4 @@ If you find my work valuable, consider supporting me with :coffee: , through **G
 
 ## 📫 Get in Touch
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:info@angelochillemi.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/angelochillemi) [![X](https://img.shields.io/badge/X.com-000000?style=for-the-badge&logo=x&logoColor=white)]([https://www.linkedin.com/in/angelochillemi](https://x.com/angelochillemix))
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:info@angelochillemi.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/angelochillemi) [![X](https://img.shields.io/badge/X.com-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/angelochillemix)
